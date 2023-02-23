@@ -1,0 +1,11 @@
+audio {
+	background-color: lightgray;
+	border-radius: 4px;
+	width: 100%;
+	min-width: 186px;
+}
+
+audio::-webkit-media-controls-panel{
+	background-color: lightgray;
+}
+
